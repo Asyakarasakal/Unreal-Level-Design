@@ -2,7 +2,8 @@
 
 A level design and environment composition study created in Unreal Engine 5.
 
-This project focuses on scene composition, prop placement, spatial layout, and visual presentation. Marketplace and third-party assets were used to build the environment, while the overall level layout, arrangement, and atmosphere were designed in Unreal Engine 5.
+This project focuses on level design, environment composition, prop placement, and visual storytelling using Unreal Engine 5.
+The environment was created using marketplace and third-party assets, while the overall layout, atmosphere, object placement, and scene composition were designed and assembled by me.
 
 ## Software
 
