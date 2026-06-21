@@ -17,3 +17,9 @@ This project focuses on scene composition, prop placement, spatial layout, and v
 * Visual Storytelling
 
 ## Gallery
+
+<img src="Overview.jpeg" width="900">
+
+<img src="Interior.jpeg" width="900">
+
+<img src="Detail.jpeg" width="900">
